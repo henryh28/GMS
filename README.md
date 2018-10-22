@@ -1,2 +1,2 @@
 # GMS
-Archive of game prototypes 
+Game Maker Studio (2) projects
